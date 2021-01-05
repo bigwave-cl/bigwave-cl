@@ -1,7 +1,7 @@
 ## :fire: Hey! This is bigwave. 👋
 
 
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![bigwave-cl github stats](https://github-readme-stats.vercel.app/api?username=bigwave-cl&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=bigwave-cl&color=ff69b4&label=PV+Since+2021-01-05)
 
